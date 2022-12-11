@@ -135,8 +135,8 @@ header nav ul {
 
 
 .card_cont{
-    width: 100%;
-    height: 600px;
+width: 100%;
+height: auto;
 }
 
 .mini{
@@ -148,13 +148,14 @@ header nav ul {
 }
 
 .mini article{
-    height: 250px ;
+    height: 500px ;
     width: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px 0;
-    background-image: url(https://aktivstom.ru/wp-content/uploads/2020/11/stock_703595704.jpg)
+    margin: 20px 0;
+    background: rgb(241, 240, 240);
+    border: solid 2px rgb(189, 185, 185);
 }
 
 .mini article div{
